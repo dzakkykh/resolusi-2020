@@ -1,6 +1,9 @@
 List Design yang Ingin Dipelajari Tahun 2020
 
 - Web Design
+  * YAGNI
+  * KISS
+  * SOLID
 - Icon Design
 - Flat Illustration
 - Vector Tracing
